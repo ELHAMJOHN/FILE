@@ -97,7 +97,7 @@ img.alignright {float:right; margin:0 0 15px 15px;}
 .header {width:100%; background-color:#000; box-shadow: 0px 0px 8px rgba(0,0,0,.5); height:70px; position:fixed; left:0; top:0; z-index: 9;}
 .header .inner {position:relative;}
 
-.logo {float:left; width:170px; height:44px; background:url(images/logo.png) no-repeat center center; background-size:contain; padding:13px 0;}
+.logo {float:left; width:170px; height:44px; background:url(https://asleng.org/wp-content/uploads/2021/09/db69d980-48e1-4791-808e-3c7fa30dfc86-e1630651489293.jpg) no-repeat center center; background-size:contain; padding:13px 0;}
 .logo a {display:block; text-indent:-9999em; height:44px;}
 
 /*nav*/
